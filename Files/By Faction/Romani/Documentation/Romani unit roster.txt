@@ -1,0 +1,184 @@
+*** FACTIONAL BARRACKS ***
+
+Level 1
+---------------
+	roman missile accensi: Capua, Arpi, Segesta, Rhegion, Arretium, Rome, Patavium, Ariminum, Taras, Bononia
+	roman infantry camillan rorarii: Capua, Arpi, Segesta, Arretium, Rome, Ariminum
+	roman infantry imperial vigiles: Arretium, Ictis, Baikor, Arpi, Emporion, Gawjam_Habukoz, Numantia, Syracuse, Swebotraustastamnoz, Sucum-Murgi, Iuvavoaeta, Arctaunon, Bratosporios, Gergovia, Bagacos, Ynys_Mon, Vellika, Camulosadae, Bibracte, Segestica, Tyde, Garama, Atiqa, Eburonum, Ankyra, Taras, Aventicos, Dalminion, Ippone, Adrumeto, Cenabum, Bocchoris, Massalia, Ratae, Lilibeo, Ariminum, Epidamnos, Bononia, Arse, Segesta, Caern_Brigantae, Kallatis, Lemonum, Sala, Avaricum, Sarmiszegethusa, Lixus, Vindelicoppidos, Gader, Messana, Buridava, Capua, Kirtan, Singidunum, Vesontio, Serdike, Pallantia, Siga, Darioritum, Mastia, Rhegion, Burdigala, Oxtraca, Gawjam_Heruskoz, Veldideno, Tolosa, Viennos, Kart_Hadast, Rome, Karali, Patavium, Mediolanum, Alalia, Lepki, Vindobona, Naissos, Tylis
+
+Level 2
+---------------
+	roman infantry principes early: Capua, Arpi, Segesta, Arretium, Rome, Ariminum
+	roman infantry hastati: Capua, Arpi, Segesta, Rhegion, Arretium, Rome, Patavium, Ariminum, Taras, Bononia
+	roman infantry legionary cohort i: Ictis, Baikor, Tarsos, Emporion, Lilibeo, Kydonia, Ippone, Vellika, Damaskos, Kart_Hadast, Cenabum, Bocchoris, Ratae, Ariminum, Epidamnos, Mtskheta, Segesta, Diospolis_Megale, Apollonia, Karkathiokerta, Sardis, Buridava, Rome, Vesontio, Thermon, Byzantion, Mastia, Pergamon, Edessa, Korinthos, Antiocheia, Singidunum, Patavium, Syracuse, Sparte, Pselkis, Numantia, Kyrene, Bratosporios, Alalia, Alexandreia, Trapezous, Babylon, Mytilene, Segestica, Bagacos, Messana, Ankyra, Sinope, Rhodos, Adrumeto, Massalia, Swebotraustastamnoz, Bononia, Caern_Brigantae, Lemonum, Arbela, Lixus, Seleukeia, Serdike, Pallantia, Siga, Mediolanum, Chersonesos, Ipsos, Lepki, Bostra, Gawjam_Habukoz, Sucum-Murgi, Salamis, Arctaunon, Paraitonion, Atiqa, Bibracte, Armavir, Capua, Aventicos, Tylis, Memphis, Arse, Amaseia, Kallatis, Petra, Nikaia, Demetrias, Ani-Kamah, Sarmiszegethusa, Athenai, Oxtraca, Gawjam_Heruskoz, Veldideno, Vindobona, Palmyra, Arpi, Pantikapaion, Arretium, Gergovia, Ynys_Mon, Camulosadae, Tyde, Eburonum, Mazaka, Dalminion, Iuvavoaeta, Hierosolyma, Naissos, Kotais, Halikarnassos, Avaricum, Vindelicoppidos, Gader, Taras, Side, Darioritum, Rhegion, Pella, Burdigala, Sidon, Tolosa, Viennos, Karali, Chalkis
+	roman infantry hastati early: Capua, Arpi, Segesta, Arretium, Rome, Ariminum
+	roman infantry legionary cohort ii: Ictis, Baikor, Tarsos, Emporion, Lilibeo, Kydonia, Iuvavoaeta, Vellika, Damaskos, Kart_Hadast, Cenabum, Bocchoris, Ratae, Ariminum, Epidamnos, Mtskheta, Segesta, Diospolis_Megale, Apollonia, Karkathiokerta, Sardis, Buridava, Rome, Vesontio, Thermon, Byzantion, Mastia, Pergamon, Edessa, Korinthos, Antiocheia, Singidunum, Patavium, Syracuse, Sparte, Pselkis, Numantia, Kyrene, Bratosporios, Alalia, Alexandreia, Trapezous, Babylon, Mytilene, Segestica, Bagacos, Messana, Ankyra, Sinope, Rhodos, Adrumeto, Massalia, Swebotraustastamnoz, Bononia, Caern_Brigantae, Lemonum, Arbela, Lixus, Seleukeia, Hibis, Serdike, Pallantia, Siga, Mediolanum, Chersonesos, Ipsos, Lepki, Bostra, Gawjam_Habukoz, Sucum-Murgi, Salamis, Arctaunon, Paraitonion, Atiqa, Bibracte, Armavir, Capua, Aventicos, Tylis, Memphis, Arse, Amaseia, Kallatis, Petra, Nikaia, Demetrias, Ani-Kamah, Sarmiszegethusa, Athenai, Oxtraca, Gawjam_Heruskoz, Veldideno, Vindobona, Palmyra, Arpi, Pantikapaion, Arretium, Gergovia, Ynys_Mon, Camulosadae, Tyde, Eburonum, Mazaka, Dalminion, Ippone, Hierosolyma, Ammonion, Naissos, Kotais, Halikarnassos, Avaricum, Vindelicoppidos, Gader, Kirtan, Taras, Side, Darioritum, Rhegion, Pella, Burdigala, Sidon, Tolosa, Viennos, Karali, Chalkis
+	roman infantry marian antesignani: Ictis, Baikor, Tarsos, Emporion, Lilibeo, Kydonia, Iuvavoaeta, Vellika, Damaskos, Kart_Hadast, Cenabum, Bocchoris, Ratae, Ariminum, Epidamnos, Mtskheta, Segesta, Diospolis_Megale, Apollonia, Karkathiokerta, Sardis, Buridava, Rome, Vesontio, Thermon, Byzantion, Mastia, Pergamon, Edessa, Korinthos, Antiocheia, Singidunum, Patavium, Syracuse, Sparte, Pselkis, Numantia, Kyrene, Bratosporios, Alalia, Alexandreia, Trapezous, Babylon, Mytilene, Segestica, Bagacos, Messana, Ankyra, Sinope, Rhodos, Adrumeto, Massalia, Swebotraustastamnoz, Bononia, Caern_Brigantae, Lemonum, Arbela, Lixus, Seleukeia, Hibis, Serdike, Pallantia, Siga, Mediolanum, Chersonesos, Ipsos, Lepki, Bostra, Gawjam_Habukoz, Sucum-Murgi, Salamis, Arctaunon, Paraitonion, Atiqa, Bibracte, Armavir, Capua, Aventicos, Tylis, Memphis, Arse, Amaseia, Kallatis, Petra, Nikaia, Demetrias, Ani-Kamah, Sarmiszegethusa, Athenai, Oxtraca, Gawjam_Heruskoz, Veldideno, Vindobona, Palmyra, Arpi, Pantikapaion, Arretium, Gergovia, Ynys_Mon, Camulosadae, Tyde, Eburonum, Mazaka, Dalminion, Ippone, Hierosolyma, Ammonion, Naissos, Kotais, Halikarnassos, Avaricum, Vindelicoppidos, Gader, Kirtan, Taras, Side, Darioritum, Rhegion, Pella, Burdigala, Sidon, Tolosa, Viennos, Karali, Chalkis
+	samnite infantry spearmen: Taras, Capua, Arpi
+	roman skirmisher leves: Capua, Arpi, Segesta, Arretium, Rome, Ariminum
+	roman skirmisher velites: Capua, Arpi, Segesta, Rhegion, Arretium, Rome, Patavium, Ariminum, Taras, Bononia
+
+Level 3
+---------------
+	generic siege 3span: Athenai, Pergamon, Korinthos, Apollonia, Rhodos, Sardis, Massalia, Demetrias, Antiocheia, Memphis, Syracuse, Alexandreia
+	roman infantry triarii early: Arretium, Rome, Capua, Arpi
+	roman infantry polybian triarii: Capua, Arpi, Segesta, Rhegion, Arretium, Rome, Patavium, Ariminum, Taras, Bononia
+	roman infantry eastern auxilia: Tarsos, Homna, Charax, Kydonia, Gava_Haomavarga, Taksashila, Gerrha, Damaskos, Hekatompylos, Amaseia, Alexandropolis, Diospolis_Megale, Alexandreia_Ariana, Augila_settlement, Karkathiokerta, Sardis, Zadrakata, Thermon, Byzantion, Apameia, Pergamon, Kophen, Korinthos, Gabai, Kabalaka, Asaak, Ptolemais_Theron, Sparte, Pselkis, Marakanda, Kyrene, Edessa, Alexandreia, Trapezous, Babylon, Mytilene, Ankyra, Tamane, Sinope, Rhodos, Mtskheta, Antiocheia, Arbela, Baktra, Ubar, Seleukeia, Hibis, Chersonesos, Bostra, Opiana, Salamis, Pura, Paraitonion, Pella, Armavir, Axum, Alexandreia_Eschate, Memphis, Pantikapaion, Mazaka, Prophthasia, Petra, Nikaia, Demetrias, Ani-Kamah, Athenai, Ekbatana, Phraaspa, Meroe, Palmyra, Chach, Ipsos, Hierosolyma, Patala, Ammonion, Karmana, Kotais, Halikarnassos, Maryab, Sabata, Side, Susa, Antiocheia_Margiane, Sidon, Carna, Chalkis, Persepolis
+	roman cavalry auxilia equitesgermanorum: Gawjam_Silengoz, Bagacos, Gawjam_Bastarnoz, Eburonum, Ascaucalis, Gawjam_Habukoz, Swebotraustastamnoz, Gawjam_Heruskoz, Vindelicoppidos, Gawjam_Rugoz, Arctaunon, Carrodunum, Vesontio
+	roman cavalry auxilia equitesgallorum: Darioritum, Bagacos, Eburonum, Viennos, Ankyra, Avaricum, Iuvavoaeta, Tolosa, Lemonum, Cenabum, Bratosporios, Gergovia, Massalia, Vesontio, Burdigala, Bibracte
+	roman cavalry auxilia equiteshispanorum: Tyde, Arse, Baikor, Mastia, Emporion, Numantia, Oxtraca, Sucum-Murgi, Tolosa, Gader, Vellika, Pallantia
+	generic siege 30mina: Athenai, Pergamon, Korinthos, Apollonia, Rhodos, Sardis, Massalia, Demetrias, Antiocheia, Memphis, Syracuse, Alexandreia
+	roman infantry principes: Capua, Arpi, Segesta, Rhegion, Arretium, Rome, Patavium, Ariminum, Taras, Bononia
+	roman cavalry auxilia eqvitesthracum: Byzantion, Kallatis, Nikaia, Tylis, Serdike, Naissos
+	roman infantry western auxilia: Lixus, Ictis, Baikor, Emporion, Gawjam_Habukoz, Numantia, Swebotraustastamnoz, Sucum-Murgi, Gawjam_Skandzawarjoz, Iuvavoaeta, Emain_Macha, Gawjam_Rugoz, Arctaunon, Bratosporios, Gergovia, Bagacos, Gintaras_Ostan, Carrodunum, Ynys_Mon, Vellika, Gawjam_Kimbroz, Camulosadae, Bibracte, Segestica, Tyde, Atiqa, Eburonum, Ivernis, Aventicos, Dalminion, Ippone, Adrumeto, Cenabum, Bocchoris, Massalia, Ratae, Epidamnos, Gawjam_Silengoz, Arse, Seliun_Pilis, Gawjam_Bastarnoz, Tylis, Caern_Brigantae, Attuaca, Sala, Avaricum, Lemonum, Sarmiszegethusa, Augila_settlement, Vindelicoppidos, Gader, Ascaucalis, Buridava, Ak_Ink, Apollonia, Singidunum, Vesontio, Serdike, Pallantia, Siga, Darioritum, Mastia, Oxtraca, Gordu_Neuriji, Burdigala, Gawjam_Heruskoz, Veldideno, Tolosa, Lucarottea, Viennos, Kart_Hadast, Garama, Karali, Alalia, Lepki, Vindobona, Naissos, Kirtan
+	roman infantry evocatae: Capua, Arpi, Segesta, Rhegion, Arretium, Rome, Mediolanum, Patavium, Ariminum, Taras, Bononia
+	italic cavalry campanian: Rome, Capua, Rhegion
+	roman cavalry camillan eqvites: Capua, Arpi, Segesta, Arretium, Rome, Ariminum
+	roman missile archer auxilia: Khiva, Bostra, Charax, Kydonia, Gava_Haomavarga, Antiocheia_Margiane, Tarsos, Trapezous, Babylon, Hierosolyma, Damaskos, Armavir, Kallatis, Alexandreia_Eschate, Hekatompylos, Tylis, Mtskheta, Amaseia, Marakanda, Antiocheia, Karmana, Kotais, Pantikapaion, Alexandreia_Ariana, Phraaspa, Mazaka, Nisa, Prophthasia, Arbela, Baktra, Petra, Zadrakata, Nikaia, Sidon, Seleukeia, Persepolis, Karkathiokerta, Ani-Kamah, Susa, Byzantion, Apameia, Chersonesos, Edessa, Gabai, Ekbatana, Kabalaka, Asaak, Naissos, Palmyra
+
+Level 4
+---------------
+	roman cavalry ala imperatoria: Ictis, Baikor, Tarsos, Emporion, Charax, Iuvavoaeta, Gava_Haomavarga, Taksashila, Vellika, Damaskos, Kart_Hadast, Gava_Yugra, Hekatompylos, Cenabum, Ratae, Epidamnos, Mtskheta, Swebotraustastamnoz, Sala, Alexandreia_Ariana, Karkathiokerta, Buridava, Apameia, Vesontio, Uspe, Byzantion, Mastia, Edessa, Gabai, Antiocheia, Kabalaka, Asaak, Lepki, Khiva, Numantia, Kophen, Tanais, Bratosporios, Trapezous, Babylon, Petra, Camulosadae, Segestica, Lucarottea, Pella, Ankyra, Sinope, Adrumeto, Massalia, Gava_Saka, Caern_Brigantae, Lemonum, Arbela, Lixus, Baktra, Seleukeia, Persepolis, Serdike, Pallantia, Siga, Chersonesos, Chighu, Bostra, Gawjam_Habukoz, Sucum-Murgi, Arctaunon, Singidunum, Carrodunum, Gelonus, Atiqa, Gawjam_Kimbroz, Bibracte, Armavir, Aventicos, Gava_Roxsalanna, Alexandreia_Eschate, Tylis, Marakanda, Arse, Gawjam_Bastarnoz, Amaseia, Mazaka, Prophthasia, Gava_Alanna, Ascaucalis, Nikaia, Sulek, Ani-Kamah, Gava_Mazsakata, Sarmiszegethusa, Ak_Ink, Oxtraca, Gordu_Neuriji, Gawjam_Heruskoz, Veldideno, Gava_Yazyga, Ekbatana, Phraaspa, Vindobona, Palmyra, Chach, Pantikapaion, Gawjam_Rugoz, Gergovia, Ynys_Mon, Hierosolyma, Tyde, Eburonum, Kallatis, Dalminion, Ippone, Ipsos, Naissos, Karmana, Kotais, Gawjam_Silengoz, Avaricum, Nisa, Vindelicoppidos, Gader, Bagacos, Kirtan, Olbia, Susa, Antiocheia_Margiane, Darioritum, Gava_Aursa, Burdigala, Zadrakata, Tolosa, Viennos
+	generic siege 3cubit: Athenai, Pergamon, Korinthos, Apollonia, Rhodos, Sardis, Massalia, Demetrias, Antiocheia, Memphis, Syracuse, Alexandreia
+	roman artillery scorpio: Capua, Arpi, Rhegion, Arretium, Rome, Patavium, Ariminum, Taras, Bononia
+	roman artillery catapulta: Capua, Arpi, Rhegion, Arretium, Rome, Patavium, Ariminum, Taras, Bononia
+	generic siege 1talent: Athenai, Pergamon, Korinthos, Apollonia, Rhodos, Sardis, Massalia, Demetrias, Antiocheia, Memphis, Syracuse, Alexandreia
+	roman infantry first legionary cohort i: Rome
+	roman cavalry polybian eqvites: Capua, Arpi, Segesta, Rhegion, Arretium, Rome, Patavium, Ariminum, Taras, Bononia
+	roman infantry first legionary cohort ii: Rome
+	roman infantry auxilia peditesextraordinarii: Ariminum, Rome, Capua, Arpi
+	samnite infantry swordsmen merc: Taras, Capua, Arpi, Rhegion
+	roman artillery 30mina: Ictis, Baikor, Tarsos, Emporion, Lilibeo, Kydonia, Iuvavoaeta, Vellika, Damaskos, Kart_Hadast, Cenabum, Bocchoris, Ratae, Ariminum, Epidamnos, Mtskheta, Segesta, Diospolis_Megale, Apollonia, Karkathiokerta, Sardis, Buridava, Rome, Vesontio, Thermon, Byzantion, Mastia, Pergamon, Edessa, Korinthos, Antiocheia, Singidunum, Patavium, Ptolemais_Theron, Syracuse, Sparte, Pselkis, Numantia, Kyrene, Tanais, Bratosporios, Alalia, Alexandreia, Trapezous, Babylon, Mytilene, Segestica, Pella, Messana, Ankyra, Sinope, Rhodos, Adrumeto, Massalia, Swebotraustastamnoz, Bononia, Caern_Brigantae, Lemonum, Arbela, Lixus, Seleukeia, Lepki, Hibis, Serdike, Pallantia, Siga, Mediolanum, Chersonesos, Ipsos, Olbia, Bostra, Gawjam_Habukoz, Sucum-Murgi, Salamis, Arctaunon, Paraitonion, Gintaras_Ostan, Carrodunum, Atiqa, Gawjam_Kimbroz, Bibracte, Armavir, Capua, Aventicos, Tylis, Memphis, Arse, Gawjam_Bastarnoz, Amaseia, Mazaka, Petra, Ascaucalis, Nikaia, Demetrias, Ani-Kamah, Sarmiszegethusa, Ak_Ink, Athenai, Oxtraca, Gordu_Neuriji, Gawjam_Heruskoz, Veldideno, Lucarottea, Meroe, Vindobona, Palmyra, Arpi, Pantikapaion, Arretium, Gawjam_Rugoz, Gergovia, Ynys_Mon, Camulosadae, Tyde, Eburonum, Kallatis, Dalminion, Ippone, Hierosolyma, Ammonion, Naissos, Kotais, Halikarnassos, Gawjam_Silengoz, Avaricum, Vindelicoppidos, Gader, Bagacos, Kirtan, Taras, Side, Darioritum, Rhegion, Burdigala, Sidon, Tolosa, Viennos, Karali, Chalkis
+
+Level 5
+---------------
+	roman cavalry eqvites praetoriani: Rome
+	roman artillery 1talent: Ictis, Baikor, Tarsos, Emporion, Lilibeo, Kydonia, Iuvavoaeta, Vellika, Damaskos, Kart_Hadast, Cenabum, Bocchoris, Ratae, Ariminum, Epidamnos, Mtskheta, Segesta, Diospolis_Megale, Apollonia, Karkathiokerta, Sardis, Buridava, Rome, Vesontio, Thermon, Byzantion, Mastia, Pergamon, Edessa, Korinthos, Antiocheia, Singidunum, Patavium, Ptolemais_Theron, Syracuse, Sparte, Pselkis, Numantia, Kyrene, Tanais, Bratosporios, Alalia, Alexandreia, Trapezous, Babylon, Mytilene, Segestica, Atiqa, Messana, Ankyra, Sinope, Rhodos, Adrumeto, Massalia, Swebotraustastamnoz, Bononia, Caern_Brigantae, Lemonum, Arbela, Lixus, Seleukeia, Lepki, Hibis, Serdike, Pallantia, Siga, Mediolanum, Chersonesos, Ipsos, Olbia, Bostra, Gawjam_Habukoz, Sucum-Murgi, Salamis, Arctaunon, Paraitonion, Gintaras_Ostan, Carrodunum, Pella, Gawjam_Kimbroz, Bibracte, Armavir, Capua, Aventicos, Tylis, Memphis, Arse, Gawjam_Bastarnoz, Amaseia, Mazaka, Petra, Ascaucalis, Nikaia, Demetrias, Ani-Kamah, Sarmiszegethusa, Ak_Ink, Athenai, Oxtraca, Gordu_Neuriji, Gawjam_Heruskoz, Veldideno, Lucarottea, Meroe, Vindobona, Palmyra, Arpi, Pantikapaion, Arretium, Gawjam_Rugoz, Gergovia, Ynys_Mon, Camulosadae, Tyde, Eburonum, Kallatis, Dalminion, Ippone, Hierosolyma, Ammonion, Naissos, Kotais, Halikarnassos, Gawjam_Silengoz, Avaricum, Vindelicoppidos, Gader, Bagacos, Kirtan, Taras, Side, Darioritum, Rhegion, Burdigala, Sidon, Tolosa, Viennos, Karali, Chalkis
+	roman cavalry auxilia equitesextraordinarii: Ariminum, Rome, Capua, Arpi
+	roman artillery 30mina: Capua, Arpi, Rhegion, Arretium, Rome, Patavium, Ariminum, Taras, Bononia
+	roman infantry praetorian cohort i: Rome
+
+*** REGIONAL BARRACKS ***
+
+Level 1
+---------------
+	steppe missile scythianfootarchers: Pantikapaion, Chersonesos, Kallatis, Gelonus, Tanais, Mtskheta, Kabalaka, Olbia, Kotais
+	arabian infantry east coast levies: Gerrha, Ubar, Homna
+	steppe missile cavalry skuda fat aexsdzhytae: Pantikapaion, Chersonesos, Kallatis, Gelonus, Tanais, Mtskheta, Kabalaka, Olbia, Kotais
+	steppe missile subeshi: Gava_Haomavarga, Sulek, Chach, Chighu, Alexandreia_Eschate
+	hellenistic infantry pantodapoi: Paraitonion, Tarsos, Bostra, Charax, Kyrene, Kophen, Taksashila, Pura, Alexandreia, Antiocheia_Margiane, Pselkis, Opiana, Babylon, Hierosolyma, Damaskos, Armavir, Alexandreia_Eschate, Hekatompylos, Amaseia, Patala, Marakanda, Ammonion, Antiocheia, Memphis, Gabai, Mazaka, Diospolis_Megale, Alexandreia_Ariana, Prophthasia, Arbela, Augila_settlement, Baktra, Petra, Zadrakata, Sidon, Seleukeia, Hibis, Karkathiokerta, Side, Ani-Kamah, Susa, Alexandropolis, Apameia, Karmana, Edessa, Ekbatana, Phraaspa, Asaak, Ptolemais_Theron, Persepolis, Palmyra
+	italic infantry nuraghi: Karali
+	arabian skirmisher tribal levies: Axum, Homna, Sabata, Charax, Tamane, Ubar, Palmyra, Carna, Seleukeia, Ptolemais_Theron, Maryab, Gerrha, Babylon, Petra, Bostra
+	arabian missile arab slingers: Axum, Homna, Sabata, Charax, Tamane, Ubar, Palmyra, Carna, Seleukeia, Ptolemais_Theron, Maryab, Gerrha, Babylon, Petra, Bostra
+	greek infantry taxeis hoplitai: Paraitonion, Tarsos, Ipsos, Charax, Kydonia, Kyrene, Taksashila, Alalia, Alexandreia, Trapezous, Pella, Babylon, Mytilene, Damaskos, Messana, Sinope, Alexandreia_Eschate, Massalia, Amaseia, Antiocheia, Memphis, Syracuse, Halikarnassos, Pantikapaion, Diospolis_Megale, Alexandreia_Ariana, Arbela, Apollonia, Baktra, Sardis, Nikaia, Seleukeia, Demetrias, Persepolis, Karkathiokerta, Taras, Side, Thermon, Chersonesos, Byzantion, Athenai, Rhegion, Pergamon, Edessa, Korinthos, Chalkis, Olbia, Salamis, Rhodos
+	iberian infantry light milites: Tyde, Arse, Baikor, Mastia, Emporion, Numantia, Oxtraca, Sucum-Murgi, Gader, Vellika, Pallantia
+	steppe skirmisher cavalry daha rog baexdzhyn aefsad: Gava_Mazsakata, Khiva, Antiocheia_Margiane, Marakanda, Nisa, Alexandreia_Eschate, Gava_Alanna, Baktra
+	hellenistic infantry illyrian pirate: Epidamnos, Dalminion, Patavium, Apollonia, Segestica
+	arabian missile cavalry tribal levies: Bostra, Homna, Sabata, Charax, Tamane, Palmyra, Carna, Seleukeia, Ubar, Maryab, Gerrha, Babylon, Petra
+	iberian skirmisher celtiberian: Numantia, Baikor, Emporion
+	african infantry maures: Siga, Sala, Lixus
+	celtic infantry lugoae: Ictis, Singidunum, Gergovia, Carrodunum, Ynys_Mon, Camulosadae, Bibracte, Eburonum, Ankyra, Aventicos, Iuvavoaeta, Lemonum, Cenabum, Tylis, Massalia, Ratae, Segesta, Caern_Brigantae, Attuaca, Avaricum, Vindelicoppidos, Mediolanum, Vesontio, Darioritum, Ak_Ink, Burdigala, Veldideno, Tolosa, Lucarottea, Viennos, Vindobona
+	eastern skirmisher artishpada: Khiva, Charax, Kophen, Pura, Antiocheia_Margiane, Trapezous, Babylon, Damaskos, Armavir, Alexandreia_Eschate, Hekatompylos, Mtskheta, Amaseia, Marakanda, Antiocheia, Karmana, Kotais, Phraaspa, Mazaka, Alexandreia_Ariana, Prophthasia, Arbela, Baktra, Zadrakata, Seleukeia, Persepolis, Karkathiokerta, Ani-Kamah, Susa, Alexandropolis, Apameia, Edessa, Gabai, Ekbatana, Kabalaka, Asaak, Palmyra
+	iberian skirmisher lusitanian: Sucum-Murgi, Oxtraca
+	eastern missile thanvare payahdag: Khiva, Charax, Gava_Haomavarga, Pura, Babylon, Alexandreia_Eschate, Hekatompylos, Marakanda, Karmana, Gabai, Alexandreia_Ariana, Antiocheia_Margiane, Nisa, Prophthasia, Arbela, Baktra, Zadrakata, Seleukeia, Persepolis, Susa, Alexandropolis, Apameia, Edessa, Ekbatana, Phraaspa, Asaak
+	african skirmisher javelinmen: Siga, Garama, Sala, Ippone, Lixus, Adrumeto, Kart_Hadast, Kirtan, Lepki, Atiqa, Tuat
+	celtic infantry gaeroas: Ictis, Ak_Ink, Segesta, Tylis, Ankyra, Iuvavoaeta, Veldideno, Mediolanum, Massalia, Ratae, Singidunum, Camulosadae, Eburonum
+	steppe missile fistaegfataexsdzhytae: Gava_Yugra, Gava_Aursa, Uspe, Gava_Roxsalanna
+	greek skirmisher akontistai: Sparte, Tarsos, Charax, Kydonia, Kyrene, Salamis, Paraitonion, Alalia, Alexandreia, Trapezous, Pella, Babylon, Mytilene, Messana, Taras, Sinope, Ipsos, Massalia, Amaseia, Lilibeo, Epidamnos, Memphis, Syracuse, Halikarnassos, Pantikapaion, Kallatis, Diospolis_Megale, Apollonia, Baktra, Sardis, Nikaia, Augila_settlement, Demetrias, Serdike, Side, Thermon, Chersonesos, Byzantion, Antiocheia, Athenai, Rhegion, Pergamon, Korinthos, Chalkis, Olbia, Rhodos, Seleukeia
+	celtic missile iaosatae regional: Ictis, Emain_Macha, Bratosporios, Gergovia, Carrodunum, Ynys_Mon, Camulosadae, Bibracte, Bagacos, Eburonum, Ankyra, Ivernis, Aventicos, Iuvavoaeta, Lemonum, Cenabum, Tylis, Massalia, Ratae, Segesta, Caern_Brigantae, Attuaca, Avaricum, Vindelicoppidos, Mediolanum, Vesontio, Darioritum, Ak_Ink, Burdigala, Veldideno, Tolosa, Lucarottea, Viennos, Singidunum, Vindobona
+
+Level 2
+---------------
+	african infantry garamantines: Lepki, Garama, Kirtan, Tuat
+	eastern infantry anatolian hillmen: Halikarnassos, Tarsos, Mazaka, Pergamon, Ipsos, Sardis, Nikaia, Amaseia, Side
+	arabian infantry ethiopian spearmen: Pselkis, Axum, Diospolis_Megale, Tamane, Carna, Meroe, Ptolemais_Theron, Maryab
+	eastern missile eransahr arshtbara: Chach, Khiva, Charax, Gava_Haomavarga, Taksashila, Babylon, Alexandreia_Eschate, Hekatompylos, Marakanda, Karmana, Gabai, Antiocheia_Margiane, Alexandreia_Ariana, Prophthasia, Arbela, Baktra, Zadrakata, Seleukeia, Persepolis, Susa, Alexandropolis, Apameia, Kophen, Ekbatana, Phraaspa, Asaak
+	eastern infantry nizag gund: Khiva, Charax, Pura, Babylon, Alexandreia_Eschate, Hekatompylos, Marakanda, Karmana, Gabai, Alexandreia_Ariana, Antiocheia_Margiane, Nisa, Prophthasia, Arbela, Baktra, Zadrakata, Seleukeia, Persepolis, Susa, Alexandropolis, Apameia, Edessa, Ekbatana, Phraaspa, Asaak, Palmyra
+	african missile cavalry numidian: Siga, Garama, Sala, Ippone, Lixus, Adrumeto, Kart_Hadast, Kirtan, Lepki, Atiqa, Tuat
+	african missile numidian archers: Siga, Sala, Ippone, Lixus, Kirtan
+	iberian cavalry equites cantabrii: Vellika, Pallantia
+	steppe missile cavalry skuda baexdzhyntae: Pantikapaion, Chersonesos, Kallatis, Gelonus, Tanais, Mtskheta, Kabalaka, Olbia, Kotais
+	african infantry machimoi: Paraitonion, Diospolis_Megale, Alexandreia, Hibis, Ammonion, Memphis
+	greek missile toxotai: Sparte, Tarsos, Charax, Kydonia, Kyrene, Salamis, Paraitonion, Alexandreia, Trapezous, Pella, Babylon, Mytilene, Messana, Sinope, Ipsos, Massalia, Amaseia, Antiocheia, Memphis, Syracuse, Halikarnassos, Pantikapaion, Kallatis, Diospolis_Megale, Apollonia, Baktra, Sardis, Nikaia, Seleukeia, Demetrias, Taras, Side, Thermon, Chersonesos, Byzantion, Athenai, Rhegion, Pergamon, Korinthos, Chalkis, Olbia, Rhodos
+	african infantry nubian spearmen: Ptolemais_Theron, Pselkis, Meroe
+	eastern missile shubanfradakshana: Kophen, Trapezous, Babylon, Armavir, Alexandreia_Eschate, Hekatompylos, Karmana, Gabai, Mazaka, Alexandreia_Ariana, Prophthasia, Arbela, Baktra, Zadrakata, Seleukeia, Persepolis, Karkathiokerta, Ani-Kamah, Susa, Apameia, Edessa, Ekbatana, Asaak
+	steppe missile cavalry daha baexdzhyntae: Gava_Mazsakata, Khiva, Antiocheia_Margiane, Marakanda, Nisa, Alexandreia_Eschate, Gava_Alanna, Baktra
+	eastern infantry verkhana kofyaren: Asaak, Zadrakata, Ekbatana
+	steppe infantry sauromatae arc aexsaeg: Uspe
+	hellenistic infantry illyrian thureophoroi: Singidunum, Epidamnos, Dalminion, Segestica
+	iberian missile northern skirmisher: Tyde, Burdigala, Vellika, Pallantia
+	eastern cavalry light generic skirmisher: Tarsos, Babylon, Ipsos, Damaskos, Armavir, Mtskheta, Amaseia, Antiocheia, Kotais, Halikarnassos, Phraaspa, Mazaka, Arbela, Karkathiokerta, Sardis, Nikaia, Seleukeia, Side, Ani-Kamah, Pergamon, Edessa, Ekbatana, Kabalaka
+	eastern skirmisher cavalry harauvatish asabara: Alexandropolis, Antiocheia_Margiane, Alexandreia_Ariana, Prophthasia, Kophen, Alexandreia_Eschate, Pura, Baktra, Karmana
+	dacian infantry thraikioi doryphoroi: Byzantion, Sarmiszegethusa, Kallatis, Buridava, Singidunum, Tylis, Serdike, Naissos
+	celtic infantry gaemile liguriae: Segesta
+	steppe missile cavalry pahlava shivatir: Asaak, Hekatompylos, Nisa, Khiva
+	celtic infantry imannae: Ictis, Caern_Brigantae, Ivernis, Ratae, Ynys_Mon, Camulosadae
+	steppe missile hallatamtithanvare: Susa, Apameia, Ekbatana, Persepolis, Karmana, Gabai
+	steppe infantry voinu spearmen: Gordu_Neuriji, Gelonus
+	eastern missile indian longbowmen: Taksashila, Opiana, Patala
+	eastern skirmisher cavalry nizakahar ayrudzi: Armavir, Kabalaka, Mazaka, Karkathiokerta, Mtskheta, Amaseia, Phraaspa, Trapezous, Kotais, Ani-Kamah
+	germanic infantry frankamannoz slave: Gawjam_Silengoz, Gawjam_Bastarnoz, Gawjam_Skandzawarjoz, Gawjam_Habukoz, Gawjam_Heruskoz, Gawjam_Rugoz, Arctaunon, Swebotraustastamnoz, Gawjam_Kimbroz, Gawjam_Gotanoz
+	iberian infantry light caetratii: Tyde, Arse, Baikor, Mastia, Emporion, Numantia, Oxtraca, Sucum-Murgi, Gader, Vellika, Pallantia
+	african missile slingers: Siga, Sala, Ippone, Lixus, Kirtan
+	eastern infantry kavakaza sparabara: Armavir, Phraaspa, Mazaka, Karkathiokerta, Mtskheta, Kabalaka, Trapezous, Kotais, Ani-Kamah
+	steppe missile cavalry aursa baexdzhyntae: Gava_Yugra, Gava_Aursa, Uspe, Gava_Roxsalanna
+	greek skirmisher peltastai: Paraitonion, Tarsos, Charax, Kydonia, Kyrene, Salamis, Alexandreia, Trapezous, Pella, Babylon, Mytilene, Damaskos, Messana, Sinope, Ipsos, Amaseia, Epidamnos, Memphis, Syracuse, Halikarnassos, Pantikapaion, Diospolis_Megale, Alexandreia_Ariana, Arbela, Apollonia, Baktra, Sardis, Seleukeia, Demetrias, Karkathiokerta, Taras, Side, Thermon, Chersonesos, Byzantion, Antiocheia, Athenai, Rhegion, Pergamon, Edessa, Korinthos, Chalkis, Rhodos
+	steppe missile thanvare kavakaza: Armavir, Kabalaka, Mazaka, Arbela, Karkathiokerta, Mtskheta, Phraaspa, Trapezous, Kotais, Ani-Kamah
+
+Level 3
+---------------
+	eastern infantry scythian axemen: Pantikapaion, Chersonesos, Kallatis, Gelonus, Tanais, Mtskheta, Kabalaka, Olbia, Kotais
+	celtic infantry batacorii: Bratosporios, Bagacos
+	italic infantry bruttian: Taras, Rhegion
+	germanic missile medininkas: Gava_Thissakata, Ascaucalis, Seliun_Pilis, Asodat, Gintaras_Ostan
+	celtic infantry teceitos: Ictis, Ak_Ink, Eburonum, Caern_Brigantae, Ivernis, Iuvavoaeta, Emain_Macha, Vindelicoppidos, Lucarottea, Vesontio, Singidunum, Ratae, Carrodunum, Ynys_Mon, Vindobona, Camulosadae
+	eastern cavalry medium generic: Tarsos, Charax, Trapezous, Babylon, Damaskos, Armavir, Sinope, Hekatompylos, Mtskheta, Amaseia, Antiocheia, Karmana, Kotais, Phraaspa, Mazaka, Alexandreia_Ariana, Arbela, Baktra, Zadrakata, Seleukeia, Persepolis, Karkathiokerta, Ani-Kamah, Susa, Antiocheia_Margiane, Apameia, Edessa, Gabai, Ekbatana, Kabalaka, Asaak
+	hellenistic missile thureopheromenoi toxotai: Tanais, Pantikapaion, Olbia, Chersonesos
+	hellenistic infantry hoplitai: Sparte, Lilibeo, Kydonia, Kyrene, Trapezous, Mytilene, Messana, Sinope, Epidamnos, Syracuse, Halikarnassos, Pantikapaion, Kallatis, Apollonia, Sardis, Nikaia, Demetrias, Taras, Thermon, Chersonesos, Byzantion, Athenai, Rhegion, Pergamon, Korinthos, Chalkis, Olbia
+	celtic cavalry ligurian: Segesta
+	galatian infantry kluddolon: Ankyra, Tylis
+	germanic infantry frameharjoz: Gawjam_Silengoz, Gawjam_Bastarnoz, Gawjam_Heruskoz, Gawjam_Rugoz, Arctaunon, Swebotraustastamnoz, Gawjam_Kimbroz
+	celtic infantry gaecori: Iuvavoaeta, Veldideno
+	african missile ethiopian archers: Pselkis, Axum, Diospolis_Megale, Tamane, Carna, Meroe, Ptolemais_Theron, Maryab
+	steppe missile cavalry rauxsa-alanna baexdzhyntae: Gava_Yugra, Gava_Aursa, Uspe, Gava_Roxsalanna
+	celtic skirmisher balroae: Attuaca
+	hellenistic infantry doryphoroi pontikoi: Pantikapaion, Chersonesos, Tanais, Olbia, Trapezous, Kotais
+	celtic infantry bagaudas: Darioritum
+	hellenistic infantry uazali: Halikarnassos, Sardis, Side
+	germanic infantry kirslininkas: Gava_Thissakata, Ascaucalis, Seliun_Pilis, Asodat, Gintaras_Ostan
+	greek cavalry hippeis: Paraitonion, Tarsos, Kydonia, Kyrene, Salamis, Alexandreia, Trapezous, Pella, Babylon, Mytilene, Sinope, Ipsos, Amaseia, Epidamnos, Memphis, Syracuse, Halikarnassos, Pantikapaion, Diospolis_Megale, Arbela, Apollonia, Karkathiokerta, Sardis, Seleukeia, Demetrias, Taras, Chersonesos, Byzantion, Antiocheia, Athenai, Pergamon, Edessa, Korinthos, Rhodos
+	celtic missile sotaroas merc: Ictis, Gergovia, Ynys_Mon, Camulosadae, Bibracte, Eburonum, Ankyra, Aventicos, Iuvavoaeta, Lemonum, Cenabum, Tylis, Massalia, Ratae, Bononia, Segesta, Caern_Brigantae, Attuaca, Avaricum, Vindelicoppidos, Vesontio, Darioritum, Mediolanum, Burdigala, Veldideno, Tolosa, Viennos, Patavium
+	eastern infantry katpatuka zanteush: Tarsos, Mazaka, Edessa, Karkathiokerta, Amaseia, Antiocheia, Ani-Kamah
+	celtic infantry appea gaedotos: Aventicos, Iuvavoaeta, Veldideno
+	hellenistic cavalry illyrioihippeis: Epidamnos, Dalminion, Segestica
+	celtic infantry siluri: Ynys_Mon
+	african cavalry ethiopian: Ptolemais_Theron, Axum, Meroe
+	african infantry ethiopian swordsmen: Ptolemais_Theron, Axum, Meroe
+	arabian missile sabean archers: Homna, Tamane, Ubar, Carna, Maryab, Sabata
+	steppe missile cavalry yancai uaezdaettae: Gava_Alanna, Gava_Mazsakata
+	iberian infantry ilergeta: Emporion
+	germanic missile lankininkas: Gava_Thissakata, Ascaucalis, Seliun_Pilis, Asodat, Gintaras_Ostan
+
+Level 4
+---------------
+	eastern missile syrian archers: Damaskos, Arbela, Karkathiokerta, Seleukeia, Antiocheia, Babylon, Palmyra, Edessa
+	celtic infantry mori gaesum: Aventicos
+	germanic infantry karas viras: Gava_Thissakata, Ascaucalis, Seliun_Pilis, Asodat, Gintaras_Ostan
+	germanic infantry sahsnotoz: Gawjam_Silengoz, Gawjam_Bastarnoz, Gawjam_Skandzawarjoz, Gawjam_Habukoz, Gawjam_Rugoz, Arctaunon, Swebotraustastamnoz, Gawjam_Kimbroz, Gawjam_Gotanoz
+	steppe missile cavalry ragon sauromatae uaezdaettae: Gava_Yugra, Gava_Aursa, Uspe, Gava_Roxsalanna
+	galatian infantry kuarothori: Ankyra, Tylis, Amaseia
+	iberian infantry asturian axemen: Vellika, Pallantia
+	celtic infantry kluddacorii: Veldideno, Aventicos, Iuvavoaeta, Vindelicoppidos, Viennos, Vesontio
+	germanic infantry karotovas: Carrodunum, Gawjam_Rugoz, Ascaucalis, Gintaras_Ostan
+	celtic infantry teskatos: Veldideno
+	eastern cavalry taxilan agema: Taksashila
+	hellenistic missile cretan archers: Kydonia, Antiocheia, Alexandreia
+
+Level 5
+---------------
+	celtic infantry cordinau orca: Singidunum
+	african elephant forest: Siga, Axum, Sala, Ippone, Lixus, Adrumeto, Kirtan, Ptolemais_Theron, Meroe
+	dacian infantry rhompharoi thorakitai: Naissos, Serdike, Tylis, Kallatis
+	celtic infantry neitos: Bagacos, Ictis, Darioritum, Mediolanum, Segesta, Patavium, Lemonum, Avaricum, Aventicos, Tolosa, Vindelicoppidos, Viennos, Cenabum, Bratosporios, Gergovia, Massalia, Camulosadae, Vesontio, Burdigala, Bibracte, Bononia
+	celtic cavalry brihentin: Darioritum, Mediolanum, Eburonum, Lemonum, Avaricum, Tolosa, Vindelicoppidos, Viennos, Cenabum, Gergovia, Massalia, Vesontio, Burdigala, Bibracte
+
